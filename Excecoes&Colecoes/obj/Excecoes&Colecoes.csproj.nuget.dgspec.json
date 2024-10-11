@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\DotNet\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj": {}
+    "C:\\Users\\alexa\\DotNetFundamentos\\DotNetFundamentos\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\DotNet\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj": {
+    "C:\\Users\\alexa\\DotNetFundamentos\\DotNetFundamentos\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\DotNet\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\DotNetFundamentos\\DotNetFundamentos\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj",
         "projectName": "Excecoes&Colecoes",
-        "projectPath": "C:\\Users\\alexa\\DotNet\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj",
+        "projectPath": "C:\\Users\\alexa\\DotNetFundamentos\\DotNetFundamentos\\Excecoes&Colecoes\\Excecoes&Colecoes.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\DotNet\\Excecoes&Colecoes\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\DotNetFundamentos\\DotNetFundamentos\\Excecoes&Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"

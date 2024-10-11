@@ -1,0 +1,14 @@
+C:\Users\alexa\DotNet\Excecoes&Colecoes\bin\Debug\net8.0\Excecoes&Colecoes.exe
+C:\Users\alexa\DotNet\Excecoes&Colecoes\bin\Debug\net8.0\Excecoes&Colecoes.deps.json
+C:\Users\alexa\DotNet\Excecoes&Colecoes\bin\Debug\net8.0\Excecoes&Colecoes.runtimeconfig.json
+C:\Users\alexa\DotNet\Excecoes&Colecoes\bin\Debug\net8.0\Excecoes&Colecoes.dll
+C:\Users\alexa\DotNet\Excecoes&Colecoes\bin\Debug\net8.0\Excecoes&Colecoes.pdb
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.AssemblyInfoInputs.cache
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.AssemblyInfo.cs
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.dll
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\refint\Excecoes&Colecoes.dll
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.pdb
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\Excecoes&Colecoes.genruntimeconfig.cache
+C:\Users\alexa\DotNet\Excecoes&Colecoes\obj\Debug\net8.0\ref\Excecoes&Colecoes.dll

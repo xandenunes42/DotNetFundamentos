@@ -10,3 +10,15 @@ C:\Users\andre\Documents\Alexandre\DotNetFundamentos\Models\obj\Debug\net8.0\Mod
 C:\Users\andre\Documents\Alexandre\DotNetFundamentos\Models\obj\Debug\net8.0\refint\Models.dll
 C:\Users\andre\Documents\Alexandre\DotNetFundamentos\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\andre\Documents\Alexandre\DotNetFundamentos\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\alexa\Documents\DotNetFundamentos\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\alexa\Documents\DotNetFundamentos\Models\bin\Debug\net8.0\Models.dll
+C:\Users\alexa\Documents\DotNetFundamentos\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.sourcelink.json
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.dll
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\alexa\Documents\DotNetFundamentos\Models\obj\Debug\net8.0\ref\Models.dll

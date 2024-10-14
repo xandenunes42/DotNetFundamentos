@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj": {}
+    "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj": {
+    "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj",
         "projectName": "ExceptionsAndColletions",
-        "projectPath": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\ExceptionsAndCollections\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\ExceptionsAndCollections\\ExceptionsAndColletions.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\ExceptionsAndCollections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\Models\\Models.csproj"
+              "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\Models\\Models.csproj"
               }
             }
           }
@@ -66,17 +66,17 @@
         }
       }
     },
-    "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\Models\\Models.csproj": {
+    "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Alexandre\\DotNetFundamentos\\Models\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\DotNetFundamentos\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

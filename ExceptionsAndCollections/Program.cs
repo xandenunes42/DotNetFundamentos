@@ -4,6 +4,9 @@ using System.Globalization;
 
 //new ExampleExceptions().Metodo1();
 
+
+/*
+
 try
     {
         string[] leitor = File.ReadAllLines("Arquivos/arquivo.txt");
@@ -32,6 +35,18 @@ try
             Console.WriteLine("Fim da leitura do arquivo!");
         }
 
+
+
+
+
+
+
+
+
+
+
+
+
 //Filas - Queue
 
 Queue<int> fila = new Queue<int>();
@@ -45,4 +60,139 @@ foreach(var index in fila)
 {
     Console.WriteLine(index);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Pilha
+
+
+Stack<int> stack = new Stack<int>();
+stack.Push(2);
+stack.Push(4);
+stack.Push(6);
+
+foreach(var index in stack)
+{
+    Console.WriteLine(index);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Dictionary - (chave valor)
+
+Dictionary<string, string> dictionary = new Dictionary<string, string>();
+dictionary.Add("SP", "Sao Paulo");
+dictionary.Add("RJ", "Rio de Janeiro");
+dictionary.Add("PR", "Parana");
+
+dictionary["SP"] = "Valor alterado"; //Manipulando valor
+
+foreach(var index in dictionary)
+{
+    Console.WriteLine($"chave: {index.Key} | valor: {index.Value}");
+}
+
+string chave = "RJ";
+
+if(dictionary.ContainsKey(chave)) //Verificando valores 
+{
+    Console.WriteLine($"Valor encontrado: {dictionary["RJ"]}");
+}
+else
+{
+    Console.WriteLine("Valor nao encontrado!!");
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Tuplas 
+
+
+(int, string, string) tuple = (1, "alexandre", "nunes");
+Console.WriteLine(tuple.Item1);
+Console.WriteLine(tuple.Item2);
+Console.WriteLine(tuple.Item3);
+
+
+LeituraArquivo arquivo = new LeituraArquivo();
+
+var (sucesso, linhasArquivo, qtdLinhas) = arquivo.LerArquivo("Arquivos/arquivo.txt");
+
+if(sucesso)
+{
+    Console.WriteLine($"Qtd de linhas: {qtdLinhas}");
+    foreach(var linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else{
+    Console.WriteLine("Nao foi possivel ler arquivo");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Operador Ternario
+
+
 
